@@ -1,0 +1,37 @@
+
+h1{
+	text-align:center;
+}
+.navbar-brand{
+	margin-left:50px;
+}
+.pic{
+	display:block;
+	margin:auto;
+}
+.card{
+	vertical-align:bottom;
+	width:350px;
+	margin:15px;
+	margin-left:50px;
+}
+.card-body{
+	text-align:center;
+}
+.classlist{
+	margin:50px;
+}
+.login{
+	width:300px;
+	margin:auto;
+	margin-top:100px;
+}
+.reg{
+	width:600px;
+	margin:auto;
+	margin-top:100px;
+}
+.deauth{
+	margin-left: 10px;
+	margin-right:10px;
+}
